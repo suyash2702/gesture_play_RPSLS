@@ -231,7 +231,7 @@ while(camera.isOpened()):
         second=str(label2)
 
         if output1 and output2:
-	    print("lelo  mera")
+	    print(" ")
 	    print(output1,output2)
             player_one_win=0
             player_two_win=0
