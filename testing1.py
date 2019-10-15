@@ -1,3 +1,4 @@
+#this file is for gesture detection
 import cv2
 import numpy as np
 import math
